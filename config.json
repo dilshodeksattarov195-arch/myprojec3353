@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervelete",
+        "uuid": 8519973,
+        "checksum": "bxj62w"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
